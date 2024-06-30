@@ -126,7 +126,7 @@ function App() {
         <div className="row">
           <div className="chart-container" style={chartStyle}>
             <h2 style={{ textAlign: "center" }}>
-              Pie Chart -Number of Articles Published by Year
+              Pie Chart - Number of Articles Published by Year
             </h2>
             <PieChart chartData={pieChartData} />
           </div>
